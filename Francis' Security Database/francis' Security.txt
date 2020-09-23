@@ -1,0 +1,13 @@
+This program is designed under VISUAL BASIC 6.0 and performs a security database using Access.
+It uses the password utility of Microsoft Access that enables only the program to open it.
+It is a tutorial on using database instructions under access, simple manipulations of string, using tab 
+strips, using modules, using combo boxes, etc...It also allows you to add and delete a user if you are logged
+in an "ADMINISTRATOR LEVEL."
+
+To access log "username: francis", "password:jkl"
+
+Hope this could help those programmers out there...
+
+Please vote me...
+
+Thanks and more power guys and gals....
